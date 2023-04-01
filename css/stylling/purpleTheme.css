@@ -1,0 +1,68 @@
+/******start default theem *******/
+
+/*--Start option box --*/
+.option-box .color-box{border:3px solid purple;}
+
+.gear-check{color:purple} 
+/*--End option box --*/
+
+
+/*--Start navbar --*/
+.navbar-inverse .navbar-nav > .active > a, .navbar-inverse .navbar-nav > .active > a:hover, .navbar-inverse .navbar-nav > .active > a:focus {color: purple;}
+
+.navbar-brand span {color:purple;}
+
+.dropdown-menu {border-top:3px solid purple;}
+
+.dropdown-menu > li > a:hover, .dropdown-menu > li > a:focus{background-color:purple;}
+
+.dropdown-menu .divider {background-color:purple;}
+/*--end navbar --*/
+
+
+/*--Start carousel --*/
+.carousel-indicators .active {background-color:purple}
+/*---carousel--*/
+
+
+/*--------------------Start section About----------*/
+.about strong{color:purple}
+
+
+/*------------------Start section testimonials----------*/
+.testimonials .carousel-inner .item span{color:purple;}
+
+.testimonials .carousel-indicators li.active{border:3px solid purple}
+/*------------------End section testimonials----------*/
+
+
+/*---------------Start section price Table------------*/
+.price_table .price_box:hover p{border:2px solid purple}
+
+
+/*------------Start section contact-us--------------*/
+.contact-us .contact i:hover{color:purple}
+
+.contact-us input[type="text"],.contact-us textarea{border: 1px solid purple;}
+
+.contact-us input[type="text"]:hover,.contact-us textarea:hover{background-color:purple;border: 1px solid #46b8da;}
+   /*------------End section contact-us--------------*/
+
+.footer h2{color: purple}
+.footer .copyright span{color:purple}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
